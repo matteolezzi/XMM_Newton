@@ -33,6 +33,13 @@ The analysis is based on observations acquired by the three XMM-Newton EPIC dete
 
 The observational data were retrieved from the XMM-Newton Science Archive (XSA).
 
+## Code Availability
+The analysis scripts used in this project are not publicly available because they belong to the Astrophysics Laboratory where the work was carried out and cannot be redistributed.
+
+This repository therefore provides a description of the scientific objectives, data-processing workflow, analysis methods, and results, rather than the original source code.
+
+The project documentation is intended to illustrate the experience gained in scientific programming, automated data processing, and X-ray timing analysis.
+
 ## Methodology
 
 ### 1. Data Reduction and Calibration
