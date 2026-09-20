@@ -39,7 +39,7 @@ The observational data were retrieved from the XMM-Newton Science Archive (XSA).
 
 The observational data were processed using the XMM-Newton Science Analysis System (SAS).
 
-A C-Shell pipeline (`X-RAY-PIPELINE.csh`) was used to organize the processing workflow, including:
+A C-Shell pipeline was used to organize the processing workflow, including:
 
 * Reading and checking the observation parameters.
 * Applying instrumental calibration.
@@ -65,7 +65,7 @@ Background subtraction was subsequently performed to obtain corrected light curv
 
 ### 3. Periodicity Analysis
 
-The temporal analysis was performed using Python (`main.py`).
+The temporal analysis was performed using Python .
 
 The workflow included:
 
