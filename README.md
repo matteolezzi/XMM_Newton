@@ -109,22 +109,6 @@ However, the statistical analysis did not allow the periodicity to be conclusive
 * Model fitting and comparison with observational results.
 * Use of scientific software and command-line scripting.
 
-## Repository Structure
-
-The following structure is a suggested organization for the project:
-
-```text
-.
-├── X-RAY-PIPELINE.csh
-├── main.py
-├── README.md
-├── data/
-│   └── README.md
-└── results/
-    └── README.md
-```
-
-The `data/` and `results/` directories are placeholders for organizing the observational inputs and generated outputs, if these are made available in the repository.
 
 ## References
 
